@@ -1,0 +1,5 @@
+package com.eduardojr.bootcampclient.services.exceptions;
+
+public class ResourceExceptionHandler {
+
+}
