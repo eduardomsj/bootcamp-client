@@ -7,7 +7,4 @@ INSERT INTO tb_client (name, cpf, income, birth_date, children) VALUES ('Alexand
 INSERT INTO tb_client (name, cpf, income, birth_date, children) VALUES ('Welles Wilder', '12345768900', 8800.00 , TIMESTAMP WITH TIME ZONE '1979-07-09T00:00:00.00Z', 1);
 INSERT INTO tb_client (name, cpf, income, birth_date, children) VALUES ('Nassim Taleb', '12345679800', 4300.00 , TIMESTAMP WITH TIME ZONE '1980-06-09T00:00:00.00Z', 3);
 INSERT INTO tb_client (name, cpf, income, birth_date, children) VALUES ('C. S. Lewis', '12345678970', 2100.00 , TIMESTAMP WITH TIME ZONE '1986-05-09T00:00:00.00Z', 2);
-INSERT INTO tb_client (name, cpf, income, birth_date, children) VALUES ('Roger Scruton', '12347678900', 1800.00 , TIMESTAMP WITH TIME ZONE '1958-04-09T00:00:00.00Z', 1);
-INSERT INTO tb_client (name, cpf, income, birth_date, children) VALUES ('F. A. Hayek', '12347678999', 1900.00 , TIMESTAMP WITH TIME ZONE '1944-07-09T00:00:00.00Z', 3);
-INSERT INTO tb_client (name, cpf, income, birth_date, children) VALUES ('Ludwig Von Mises', '12347678988', 2000.00 , TIMESTAMP WITH TIME ZONE '1955-06-09T00:00:00.00Z', 6);
-INSERT INTO tb_client (name, cpf, income, birth_date, children) VALUES ('Dale Carnegie', '12347678977', 3000.00 , TIMESTAMP WITH TIME ZONE '1957-05-09T00:00:00.00Z', 0);
+INSERT INTO tb_client (name, cpf, income, birth_date, children) VALUES ('Roger Scruton', '12347678900', 1100.00 , TIMESTAMP WITH TIME ZONE '1958-04-09T00:00:00.00Z', 1);
