@@ -1,7 +1,0 @@
-package com.eduardojr.bootcampclient.repositories;
-
-import com.eduardojr.bootcampclient.entities.Client;
-
-public class ClientRepository extends JpaRepository<Client, Long> {
-
-}
